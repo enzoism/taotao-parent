@@ -8,7 +8,6 @@
   <modules>
     <module>taotao-common</module>
     <module>taotao-manage</module>
-    <module>taotao-manage</module>
   </modules>
   <packaging>pom</packaging>
   <name>taotao-parent Maven Webapp</name>
